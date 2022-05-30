@@ -1,0 +1,201 @@
+id: IFDA749BF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:47:40.848202'
+last_modified: '2022-05-30T18:47:40.848207'
+parser: null
+source_metadata:
+  title: Dodrupchen Jigme Tenpe Nyima Series
+  language: it
+  description: 'Texts by and about the Third Dodrupchen, Jigme Tenpe Nyima (rdo grub
+    chen ''jigs med bstan pa''i nyi ma, 1865–1926):'
+  volume:
+    f9EA6:
+      title: Advice for a Dying Practitioner
+      base_file: f9EA6.txt
+      order: 1
+      parent: Advice
+    f1AB9:
+      title: Advice to Jigme Tenpe Nyima
+      base_file: f1AB9.txt
+      order: 2
+      parent: Advice
+    f1FEF:
+      title: On Seeing the Guru as a Buddha
+      base_file: f1FEF.txt
+      order: 3
+      parent: Advice
+    fD4A2:
+      title: On Sleep
+      base_file: fD4A2.txt
+      order: 4
+      parent: Advice
+    fBFB1:
+      title: On the Ignorance of the Learned
+      base_file: fBFB1.txt
+      order: 5
+      parent: Advice
+    f8214:
+      title: Retreat Advice
+      base_file: f8214.txt
+      order: 6
+      parent: Advice
+    fDB77:
+      title: Three Ways of Bringing Sickness onto the Path
+      base_file: fDB77.txt
+      order: 7
+      parent: Advice
+    f91E2:
+      title: Turning Suffering & Happiness Into Enlightenment
+      base_file: f91E2.txt
+      order: 8
+      parent: Advice
+    f4ACD:
+      title: Aspiration for Rebirth in Sukhāvatī
+      base_file: f4ACD.txt
+      order: 9
+      parent: Aspiration Prayers
+    fE4E5:
+      title: Aspirations in Accordance with the Dharma
+      base_file: fE4E5.txt
+      order: 10
+      parent: Aspiration Prayers
+    f8848:
+      title: A Guide to the Practice of Sang
+      base_file: f8848.txt
+      order: 11
+      parent: Commentaries
+    f7A88:
+      title: A Simple Visualization for the Seven-Line Prayer
+      base_file: f7A88.txt
+      order: 12
+      parent: Commentaries
+    fD1CF:
+      title: 'Garland of Night-Blooming Water Lilies: A Commentary on the Guru Siddhi
+        Mantra'
+      base_file: fD1CF.txt
+      order: 13
+      parent: Commentaries
+    f65DC:
+      title: 'Lamp That Illuminates the Excellent Path of Great Bliss: A Guide to
+        the Practice Text of the Female Awareness-Holder, the Queen of Great Bliss'
+      base_file: f65DC.txt
+      order: 14
+      parent: Commentaries
+    fB090:
+      title: On the Final Words of Orgyen Tendzin Norbu
+      base_file: fB090.txt
+      order: 15
+      parent: Commentaries
+    f4438:
+      title: Teaching on the Offering of Flowers
+      base_file: f4438.txt
+      order: 16
+      parent: Commentaries
+    f95AA:
+      title: Advice for Hor Özer
+      base_file: f95AA.txt
+      order: 17
+      parent: Dzogchen
+    f3849:
+      title: Advice for Palseng
+      base_file: f3849.txt
+      order: 18
+      parent: Dzogchen
+    fA34A:
+      title: How to Count the Four Permutations of Actual and Basis
+      base_file: fA34A.txt
+      order: 19
+      parent: Dzogchen
+    fF2A9:
+      title: 'The Staircase That Leads to Lotus Light: Essential Instructions on Guru
+        Yoga'
+      base_file: fF2A9.txt
+      order: 20
+      parent: Guru Yoga
+    f9E99:
+      title: Palchen Düpa Lineage Prayer
+      base_file: f9E99.txt
+      order: 21
+      parent: Lineage Prayers
+    f1A0C:
+      title: Prayer to the Gurus of the Dzogchen Lineage
+      base_file: f1A0C.txt
+      order: 22
+      parent: Lineage Prayers
+    fF444:
+      title: 'Rain of Siddhis: A Prayer to the Lineage of Rigdzin Düpa'
+      base_file: fF444.txt
+      order: 23
+      parent: Lineage Prayers
+    fE54C:
+      title: Prayer for the Long Life of the Third Dodrupchen, Jigme Tenpai Nyima
+      base_file: fE54C.txt
+      order: 24
+      parent: Long Life Prayers
+    f1F99:
+      title: A Brief Ritual for Consecrating Representations of Enlightened Body,
+        Speech and Mind
+      base_file: f1F99.txt
+      order: 25
+      parent: Practices
+    fFB30:
+      title: Rigdzin Düpa Amṛta Offering
+      base_file: fFB30.txt
+      order: 26
+      parent: Practices
+    fFBC4:
+      title: 'The Adamantine Magical Wheel: Invoking the Profound Pledge of Padmākara,
+        the Glorious Victor, to Avert the Final War'
+      base_file: fFBC4.txt
+      order: 27
+      parent: Practices
+    fC9C1:
+      title: Yumka Fulfilment Practice
+      base_file: fC9C1.txt
+      order: 28
+      parent: Practices
+    f1464:
+      title: In Praise of Patrul Orgyen Jigme Chökyi Wangpo
+      base_file: f1464.txt
+      order: 29
+      parent: Praise
+    f2682:
+      title: In Praise of Sönam Palge
+      base_file: f2682.txt
+      order: 30
+      parent: Praise
+    f7BEA:
+      title: Prayer to Ārya Tārā
+      base_file: f7BEA.txt
+      order: 31
+      parent: Prayers
+    f4E83:
+      title: Prayer to Avalokiteśvara
+      base_file: f4E83.txt
+      order: 32
+      parent: Prayers
+    fD402:
+      title: Prayer to Buddha Amitābha
+      base_file: fD402.txt
+      order: 33
+      parent: Prayers
+    fC460:
+      title: Prayer to Padmasambhava, Longchenpa and Jigme Lingpa
+      base_file: fC460.txt
+      order: 34
+      parent: Prayers
+    f7780:
+      title: 'Words of the Vajra Queen: An Essential Daily Practice of the Vidyādharas’
+        Female Practice'
+      base_file: f7780.txt
+      order: 35
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
